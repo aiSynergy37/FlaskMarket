@@ -1,0 +1,4 @@
+py -m veenv
+env /Scripts/activate
+set FLASK_ENV=development
+set FLASK_APP=market.py
